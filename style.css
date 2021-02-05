@@ -8,3 +8,18 @@
   color:blue;
   font-size: 250%;
 }
+.firstlist {
+  color:magenta;
+  font-size:200%;
+}
+.secondlist {
+  color:yellow;
+  font-size:200%;
+}
+.firsttable {
+  margin-left: auto;
+  margin-right: auto;
+}
+.secondtable {
+  color:red;
+}
